@@ -1,6 +1,6 @@
 # such-art-syntax theme
 
-![Theme screenshot](./screenshot.png)
+![Theme screenshot](https://s15.postimg.org/5suzl7i2j/screenshot.png)
 
 I made a silly little theme for atom.
 
